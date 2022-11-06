@@ -1,3 +1,7 @@
+
+// Encapsulation sometimes a mechanism of restricting direct access to some of the object's components.
+
+
 class Employee{
 
     setEmpDetails(name, id, phoneNo){
