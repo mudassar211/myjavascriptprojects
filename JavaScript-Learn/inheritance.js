@@ -1,3 +1,7 @@
+
+//Inheritance: Process where one class acquires properties (methods and fields) from another class. 
+
+
 class Car{
 
     setName(name){
